@@ -1,0 +1,40 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    height: 33.33vh;
+    width: 100vw;
+}
+
+#red, #white, #blue {
+    height: 100%;
+}
+
+#red{
+    background-color: red;
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: orange;
+    font-size: 80px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-left: 30%;
+}
+
